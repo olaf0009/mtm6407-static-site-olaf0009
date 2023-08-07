@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: '/images/profile.png'
-heroText: Hero text
-tagline: description here...
+heroImage: 'images/profile.png'
+heroText: Ebenezer Olafimihan
+tagline: Beyond designing and coding, I have a different world of intereting hobbies, You what to know more? Hit "Get Started"
 actions:
   - text: Get Started
     link: /hobbies/
@@ -11,12 +11,12 @@ actions:
     link: /me/
     type: secondary
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Design
+  details: UX design
+- title: Web
+  details: JavaScript
+- title: Multimedia
+  details: PremierPro
 footer: © Ebenezer 2023
 ---
 

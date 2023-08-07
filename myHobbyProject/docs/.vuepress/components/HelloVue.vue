@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Hello from the 'HelloVue' component</h2>
+        <!-- <h2>Hello from the 'HelloVue' component</h2> -->
     </div>
 </template>
 
